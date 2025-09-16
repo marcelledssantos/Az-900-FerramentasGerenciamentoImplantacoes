@@ -1,4 +1,4 @@
-# Ferramentas de Gerenciamento e Implantação no Azure (AZ-900)
+# Ferramentas de Gerenciamento e Implantação no Azure 
 
 ## 1. Introdução
 O Azure oferece várias formas de **interagir, gerenciar e implantar recursos**.  
